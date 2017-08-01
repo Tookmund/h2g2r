@@ -10,7 +10,7 @@
 	<atom:link href="https://tookmund.github.io/h2g2r/h2g2r.xml" rel="self" type="application/rss+xml" />
 
 	<language>en-us</language>
-	<lastBuildDate>01 Aug 2017 00:00:00 -0500</lastBuildDate>
+	<lastBuildDate>01 Aug 2017 00:00:01 -0500</lastBuildDate>
 	<pubDate>01 Aug 2017 00:00:00 -0500</pubDate>
 
 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
@@ -32,10 +32,10 @@
 	<item>
 		<title>Fit the First</title>
 		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-01.mp3</guid>
-		<description> </description> 
+		<description>Fit the First</description>
 		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-01.mp3" length="25388" type="audio/mpeg"/>
 		<category>Podcasts</category>
-		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<pubDate>08 Mar 1978 22:30:01 GMT</pubDate>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:duration>00:27:04</itunes:duration>
 	</item>
@@ -43,10 +43,10 @@
 	<item>
 		<title>Fit the Second</title>
 		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-02.mp3</guid>
-		<description> </description>
+		<description>Fit the Second</description>
 		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-02.mp3" length="24736" type="audio/mpeg"/>
 		<category>Podcasts</category>
-		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<pubDate>08 Mar 1978 22:30:02 GMT</pubDate>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:duration>00:26:22</itunes:duration>
 	</item>
@@ -54,10 +54,10 @@
 	<item>
 		<title>Fit the Third</title>
 		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-03.mp3</guid>
-		<description> </description>
+		<description>Fit the Third</description>
 		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-03.mp3" length="24588" type="audio/mpeg"/>
 		<category>Podcasts</category>
-		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<pubDate>08 Mar 1978 22:30:03 GMT</pubDate>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:duration>00:26:13</itunes:duration>
 	</item>
@@ -65,10 +65,10 @@
 	<item>
 		<title>Fit the Fourth</title>
 		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-04.mp3</guid>
-		<description> </description>
+		<description>Fit the Fourth</description>
 		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-04.mp3" length="24808" type="audio/mpeg"/>
 		<category>Podcasts</category>
-		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<pubDate>08 Mar 1978 22:30:04 GMT</pubDate>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:duration>00:26:27</itunes:duration>
 	</item>
@@ -76,10 +76,10 @@
 	<item>
 		<title>Fit the Fifth</title>
 		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-05.mp3</guid>
-		<description> </description>
+		<description>Fit the Fifth</description>
 		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-05.mp3" length="25736" type="audio/mpeg"/>
 		<category>Podcasts</category>
-		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<pubDate>08 Mar 1978 22:30:05 GMT</pubDate>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:duration>00:27:26</itunes:duration>
 	</item>
@@ -87,12 +87,78 @@
 	<item>
 		<title>Fit the Sixth</title>
 		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-06.mp3</guid>
-		<description> </description>
+		<description>Fit the Sixth</description>
 		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-06.mp3" length="25744" type="audio/mpeg"/>
 		<category>Podcasts</category>
-		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<pubDate>08 Mar 1978 22:30:06 GMT</pubDate>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:duration>00:27:27</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Seventh</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-07.mp3</guid>
+		<description>Fit the Seventh</description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-07.mp3" length="24616" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:07 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:26:14</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Eighth</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-08.mp3</guid>
+		<description>Fit the Eighth</description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-08.mp3" length="25452" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:08 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:27:08</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Ninth</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-09.mp3</guid>
+		<description>Fit the Ninth</description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-09.mp3" length="24908" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:09 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:26:33</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Tenth</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-10.mp3</guid>
+		<description>Fit the Tenth</description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-10.mp3" length="24976" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:10 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:26:38</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Eleventh</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-11.mp3</guid>
+		<description>Fit the Eleventh</description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-11.mp3" length="24952" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:11 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:26:36</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Twelfth</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-12.mp3</guid>
+		<description>Fit the Twelfth</description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-12.mp3" length="24980" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:12 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:26:38</itunes:duration>
 	</item>
 
 </channel>
