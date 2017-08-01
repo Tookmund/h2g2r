@@ -10,8 +10,8 @@
 	<atom:link href="https://tookmund.github.io/h2g2r/h2g2r.xml" rel="self" type="application/rss+xml" />
 
 	<language>en-us</language>
-	<lastBuildDate>Mon, 31 Aug 2017 11:00:00 -0500</lastBuildDate>
-	<pubDate>Mon, 31 Aug 2017 11:00:00 -0500</pubDate>
+	<lastBuildDate>31 Aug 2017 11:00:00 -0500</lastBuildDate>
+	<pubDate>31 Aug 2017 11:00:00 -0500</pubDate>
 
 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 	<webMaster>tookmund@gmail.com (Jacob Adams)</webMaster>
@@ -26,16 +26,16 @@
 	</itunes:owner>
 
 	<itunes:explicit>No</itunes:explicit>
-	<itunes:image href="https://tookmund.github.io/h2g2r/h2g2.jpg"/>
+	<itunes:image href="http://tookmund.github.io/h2g2r/h2g2.jpg"/>
 	<itunes:category text="Comedy" />
 
 	<item>
 		<title>Fit the First</title>
-		<guid>https://tookmund.github.io/h2g2r/HitchHikers-01.mp3</guid>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikers-01.mp3</guid>
 		<description> </description> 
-		<enclosure url="https://tookmund.github.io/h2g2r/HitchHikers-01.mp3" length="25388" type="audio/mpeg"/>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikers-01.mp3" length="25388" type="audio/mpeg"/>
 		<category>Podcasts</category>
-		<pubDate>24 Mar 1978</pubDate>
+		<pubDate>24 Mar 1978 00:00:00 GMT</pubDate>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:duration>00:27:04</itunes:duration>
 	</item>
