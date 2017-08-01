@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ 
+	<channel>
+
+	<title>Hitchhiker's Guide To The Galaxy</title>
+	<description>The Primary Phase by Douglas Adams</description>
+	<link>http://www.bbc.co.uk/programmes/b03v379k</link>
+	<language>en-us</language>
+	<lastBuildDate>Sun, 31 Aug 2017 11:00:00 -0500</lastBuildDate>
+	<pubDate>Sun, 31 Aug 2017 11:00:00 -0500</pubDate>
+	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	<webMaster>tookmund@gmail.com</webMaster>
+
+	<itunes:author>Douglas Adams</itunes:author>
+	<itunes:subtitle>The Primary Phase of Hitchhiker's Guide to the Galaxy</itunes:subtitle>
+	<itunes:summary>The original 1978 Primary Phase of the Hitchhiker's Guide to the Galaxy</itunes:summary>
+
+	<itunes:owner>
+		<itunes:name>Douglas Adams</itunes:name>
+	</itunes:owner>
+
+	<itunes:explicit>No</itunes:explicit>
+
+	<itunes:image href="image.png"/>
+
+	<item>
+		<title></title>
+		<guid>HitchHikers-01.mp3</guid>
+		<description> </description> 
+		<enclosure url="HitchHikers-01.mp3" length="1" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:27:04</itunes:duration>
+	</item>
+
+</channel>
+
+</rss>
