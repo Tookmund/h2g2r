@@ -3,22 +3,22 @@
  
 	<channel>
 
-	<title>Hitchhiker's Guide To The Galaxy</title>
-	<description>The Primary and Secondary Phase by Douglas Adams and BBC Radio 4</description>
+	<title>The Hitchhiker's Guide To The Galaxy</title>
+	<description>The Primary and Secondary Phases of The Hitchhiker's Guide to the Galaxy by Douglas Adams and BBC Radio 4</description>
 
-	<link>http://www.bbc.co.uk/programmes/b03y0hqc</link>
+	<link>http://www.bbc.co.uk/programmes/b03v379k</link>
 	<atom:link href="https://tookmund.github.io/h2g2r/h2g2r.xml" rel="self" type="application/rss+xml" />
 
 	<language>en-us</language>
-	<lastBuildDate>01 Aug 2017 00:00:01 -0500</lastBuildDate>
+	<lastBuildDate>01 Aug 2017 00:00:02 -0500</lastBuildDate>
 	<pubDate>01 Aug 2017 00:00:00 -0500</pubDate>
 
 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 	<webMaster>tookmund@gmail.com (Jacob Adams)</webMaster>
 
 	<itunes:author>Douglas Adams</itunes:author>
-	<itunes:subtitle>The Primary Phase of Hitchhiker's Guide to the Galaxy</itunes:subtitle>
-	<itunes:summary>The original 1978 Primary Phase of the Hitchhiker's Guide to the Galaxy</itunes:summary>
+	<itunes:subtitle>The Primary and Secondary Phases of The Hitchhiker's Guide to the Galaxy</itunes:subtitle>
+	<itunes:summary>The original 1978 Primary and Secondary Phases of The Hitchhiker's Guide to the Galaxy</itunes:summary>
 
 	<itunes:owner>
 		<itunes:name>Jacob Adams</itunes:name>
