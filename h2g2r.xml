@@ -4,14 +4,14 @@
 	<channel>
 
 	<title>Hitchhiker's Guide To The Galaxy</title>
-	<description>The Primary Phase by Douglas Adams</description>
+	<description>The Primary and Secondary Phase by Douglas Adams and BBC Radio 4</description>
 
 	<link>http://www.bbc.co.uk/programmes/b03y0hqc</link>
 	<atom:link href="https://tookmund.github.io/h2g2r/h2g2r.xml" rel="self" type="application/rss+xml" />
 
 	<language>en-us</language>
-	<lastBuildDate>31 Aug 2017 11:00:00 -0500</lastBuildDate>
-	<pubDate>31 Aug 2017 11:00:00 -0500</pubDate>
+	<lastBuildDate>01 Aug 2017 00:00:00 -0500</lastBuildDate>
+	<pubDate>01 Aug 2017 00:00:00 -0500</pubDate>
 
 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 	<webMaster>tookmund@gmail.com (Jacob Adams)</webMaster>
@@ -60,6 +60,39 @@
 		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:duration>00:26:13</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Fourth</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-04.mp3</guid>
+		<description> </description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-04.mp3" length="24808" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:26:27</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Fifth</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-05.mp3</guid>
+		<description> </description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-05.mp3" length="25736" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:27:26</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Sixth</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-06.mp3</guid>
+		<description> </description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-06.mp3" length="25744" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:27:27</itunes:duration>
 	</item>
 
 </channel>
