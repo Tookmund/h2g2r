@@ -6,7 +6,7 @@
 	<title>Hitchhiker's Guide To The Galaxy</title>
 	<description>The Primary Phase by Douglas Adams</description>
 
-	<link>http://www.bbc.co.uk/programmes/b03v379k</link>
+	<link>http://www.bbc.co.uk/programmes/b03y0hqc</link>
 	<atom:link href="https://tookmund.github.io/h2g2r/h2g2r.xml" rel="self" type="application/rss+xml" />
 
 	<language>en-us</language>
@@ -31,13 +31,35 @@
 
 	<item>
 		<title>Fit the First</title>
-		<guid>http://tookmund.github.io/h2g2r/HitchHikers-01.mp3</guid>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-01.mp3</guid>
 		<description> </description> 
-		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikers-01.mp3" length="25388" type="audio/mpeg"/>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-01.mp3" length="25388" type="audio/mpeg"/>
 		<category>Podcasts</category>
-		<pubDate>24 Mar 1978 00:00:00 GMT</pubDate>
+		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:duration>00:27:04</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Second</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-02.mp3</guid>
+		<description> </description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-02.mp3" length="24736" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:26:22</itunes:duration>
+	</item>
+
+	<item>
+		<title>Fit the Third</title>
+		<guid>http://tookmund.github.io/h2g2r/HitchHikersGuide-03.mp3</guid>
+		<description> </description>
+		<enclosure url="http://tookmund.github.io/h2g2r/HitchHikersGuide-03.mp3" length="24588" type="audio/mpeg"/>
+		<category>Podcasts</category>
+		<pubDate>08 Mar 1978 22:30:00 GMT</pubDate>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:duration>00:26:13</itunes:duration>
 	</item>
 
 </channel>
