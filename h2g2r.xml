@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://w3.org/2005/Atom">
  
 	<channel>
 
 	<title>Hitchhiker's Guide To The Galaxy</title>
 	<description>The Primary Phase by Douglas Adams</description>
 	<link>http://www.bbc.co.uk/programmes/b03v379k</link>
+	<atom:link href="https://tookmund.github.io/h2g2r/h2g2r.xml" rel="self" type="application/rss+xml" />
 	<language>en-us</language>
-	<lastBuildDate>Sun, 31 Aug 2017 11:00:00 -0500</lastBuildDate>
-	<pubDate>Sun, 31 Aug 2017 11:00:00 -0500</pubDate>
+	<lastBuildDate>Mon, 31 Aug 2017 11:00:00 -0500</lastBuildDate>
+	<pubDate>Mon, 31 Aug 2017 11:00:00 -0500</pubDate>
 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 	<webMaster>tookmund@gmail.com</webMaster>
 
@@ -17,18 +18,19 @@
 	<itunes:summary>The original 1978 Primary Phase of the Hitchhiker's Guide to the Galaxy</itunes:summary>
 
 	<itunes:owner>
-		<itunes:name>Douglas Adams</itunes:name>
+		<itunes:name>Jacob Adams</itunes:name>
+		<itunes:email>tookmund@gmail.com (Jacob Adams)</itunes:email>
 	</itunes:owner>
 
 	<itunes:explicit>No</itunes:explicit>
-
-	<itunes:image href="image.png"/>
+	<itunes:image href="https://tookmund.github.io/h2g2r/image.jpg"/>
+	<itunes:category text="Comedy" />
 
 	<item>
-		<title></title>
-		<guid>HitchHikers-01.mp3</guid>
+		<title>Fit the First</title>
+		<guid>https://tookmund.github.io/h2g2r/HitchHikers-01.mp3</guid>
 		<description> </description> 
-		<enclosure url="HitchHikers-01.mp3" length="1" type="audio/mpeg"/>
+		<enclosure url="https://tookmund.github.io/h2g2r/HitchHikers-01.mp3" length="25388" type="audio/mpeg"/>
 		<category>Podcasts</category>
 		<pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
 		<itunes:explicit>No</itunes:explicit>
